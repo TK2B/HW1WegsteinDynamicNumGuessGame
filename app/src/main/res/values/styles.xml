@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="AlertDialogStyle" parent="android:style/Theme.Material.Light.Dialog">
+        <item name="android:colorAccent">#FF6200EE</item>
+        <item name="android:textColor">#FF6200EE</item>
+        <item name="android:textColorPrimary">#FF6200EE</item>
+    </style>
+
+    <style name="myButtonStyle" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+
+
+
+    </style>
+</resources>
